@@ -1,0 +1,16 @@
+#container {
+    width: 12%;
+    height: 30%;
+    margin-left: 43%;
+    margin-top: 19%;
+    background-color: rgb(131, 132, 133);
+    border: solid;
+}
+
+h3 {
+    margin-left: 43%;
+}
+
+h2{
+    margin-left: 15%;
+}
